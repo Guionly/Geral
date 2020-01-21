@@ -1,0 +1,2 @@
+# Geral
+Um repositório geral.
